@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class MyLogistisServices1 {
+public class ChibuzorAndSonsLogistics {
   
      static int riderOne(int successfulDelivery1){
         int Parcel = 160, basePay = 5000; int dailyWage = 0;
